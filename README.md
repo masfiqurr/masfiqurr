@@ -30,6 +30,7 @@
 ### Featured work
 
 - 🌐 **[masfiqur.com](https://www.masfiqur.com)** — Personal QA portfolio (Next.js)
+- 🎭 **[playwright-qa-examples](https://github.com/masfiqurr/playwright-qa-examples)** — Public Playwright UI + API test examples
 - 📦 **[masfiqur-qa-portfolio](https://github.com/masfiqurr/masfiqur-qa-portfolio)** — Source for the portfolio site
 
 ---
